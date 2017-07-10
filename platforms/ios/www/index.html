@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'/>
+	<title>上海麻将</title>
+	<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'/>
+	<meta name='apple-mobile-web-app-capable' content='yes' />
+	<meta name='full-screen' content='true' />
+	<meta name='screen-orientation' content='portrait' />
+	<!--<meta name='screen-orientation' content='landscape' />-->
+	<meta name='x5-fullscreen' content='true' />
+	<meta name='360-fullscreen' content='true' />
+	<meta http-equiv='expires' content='0' />
+</head>
+<body style="margin: 0px; overflow: hidden;">
+	<div id="waitdiv" style="position:absolute;width:100%;height:100%;overflow: hidden;background-color: #ffffff;z-index: 20000001;">
+		<div id="logoBox" style="width:100%;height:100%;z-index:20000002;" class="splash">
+			<div class="item">
+				<div id="tips" style="font-size:16px;font-family:'黑体';font-weight:500;color:black">加载中...</div>
+			</div>
+		</div>
+	</div>
+	
+	<style>
+		/**landscape*/
+		@media all and (orientation : portrait) { 
+			.splash {
+				-ms-transform:rotate(270deg); 	/* IE 9 */
+				-moz-transform:rotate(270deg); 	/* Firefox */
+				-webkit-transform:rotate(270deg); /* Safari 和 Chrome */
+				-o-transform:rotate(270deg); 	/* Opera */
+			} 
+			.item{
+				width:400px;
+			}
+			.waitimg{
+				width:50px;height:52px;
+				-webkit-transform-origin:center center;
+				-webkit-animation:rotatea 1s linear infinite;
+			}
+		} 
+		@media only screen 
+		  and (min-device-width: 375px) 
+		  and (max-device-width: 667px) 
+		  and (-webkit-min-device-pixel-ratio: 2) { 
+			.item{
+				-webkit-transform:scale(0.8,0.8);
+			}
+			
+		}
+		.splash{
+			text-align: center;
+			position: relative;
+			/* Center slide text vertically */
+			display: -webkit-box;
+			display: -ms-flexbox;
+			display: -webkit-flex;
+			display: flex;
+			-webkit-box-pack: center;
+			-ms-flex-pack: center;
+			-webkit-justify-content: center;
+			justify-content: center;
+			-webkit-box-align: center;
+			-ms-flex-align: center;
+			-webkit-align-items: center;
+			align-items: center;
+		}
+		@-webkit-keyframes rotatea{
+			0%{-webkit-transform:rotate(360deg);transform:rotate(360deg);}
+			50% {-webkit-transform:rotate(180deg);transform:rotate(180deg)}
+			100%{-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+		}
+	</style>
+	<!-- Protobuf -->
+    <!--<script type="text/javascript" src="libs/bytebuffer.js"></script>
+    <script type="text/javascript" src="libs/protobuf.js"></script>-->
+	<!--核心包，封装了显示对象渲染，事件，时间管理，时间轴动画，缓动，消息交互,socket，本地存储，鼠标触摸，声音，加载，颜色滤镜，位图字体等-->
+	<script type="text/javascript" src="libs/laya.core.js?v=10"></script>
+	<!--封装了webgl渲染管线，如果使用webgl渲染，可以在初始化时调用Laya.init(1000,800,laya.webgl.WebGL);-->
+    <script type="text/javascript" src="libs/laya.webgl.js?v=10"></script>
+	<!--是动画模块，包含了swf动画，骨骼动画等-->
+    <!--<script type="text/javascript" src="libs/laya.ani.js"></script>-->
+	<!--包含更多webgl滤镜，比如外发光，阴影，模糊以及更多-->
+    <script type="text/javascript" src="libs/laya.filter.js?v=10"></script>
+	<!--封装了html动态排版功能-->
+    <script type="text/javascript" src="libs/laya.html.js?v=10"></script>
+	<!--粒子类库-->
+    <!--<script type="text/javascript" src="libs/laya.particle.js"></script>-->
+	<!--提供tileMap解析支持-->
+    <!--<script type="text/javascript" src="libs/laya.tiledmap.js"></script>-->
+	<!--提供了制作UI的各种组件实现-->
+    <script type="text/javascript" src="libs/laya.ui.js?v=10"></script>
+	<!-- 物理引擎matter.js -->
+    <!--<script type="text/javascript" src="libs/matter.js"></script>-->
+    <!--<script type="text/javascript" src="libs/matter-RenderLaya.js"></script>-->
+	<script type="text/javascript" src="src/frame/entrance.js?v=20170103-0307"></script>
+	<!-- <script type="text/javascript" src="libs/weixin.js?v=3"></script> -->
+	<!-- <script type="text/javascript" src="./script/api.js"></script> -->
+	<script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>

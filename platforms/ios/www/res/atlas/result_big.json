@@ -1,0 +1,138 @@
+{
+    "frames": {
+        "dyj.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 173,
+                "h": 122,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 173,
+                "h": 122
+            },
+            "sourceSize": {
+                "w": 173,
+                "h": 122
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fanhuidating.png": {
+            "frame": {
+                "x": 175,
+                "y": 0,
+                "w": 307,
+                "h": 120,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 120
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fenxiang.png": {
+            "frame": {
+                "x": 175,
+                "y": 122,
+                "w": 307,
+                "h": 120,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 120
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "kuang1.png": {
+            "frame": {
+                "x": 0,
+                "y": 244,
+                "w": 303,
+                "h": 506,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 303,
+                "h": 506
+            },
+            "sourceSize": {
+                "w": 303,
+                "h": 506
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "paijujieshu.png": {
+            "frame": {
+                "x": 484,
+                "y": 0,
+                "w": 257,
+                "h": 71,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 257,
+                "h": 71
+            },
+            "sourceSize": {
+                "w": 257,
+                "h": 71
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "zjps.png": {
+            "frame": {
+                "x": 0,
+                "y": 124,
+                "w": 170,
+                "h": 111,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 170,
+                "h": 111
+            },
+            "sourceSize": {
+                "w": 170,
+                "h": 111
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "result_big.png",
+        "prefix": "result_big\/"
+    }
+}

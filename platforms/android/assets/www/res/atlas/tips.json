@@ -1,0 +1,75 @@
+{
+    "frames": {
+        "cxlj.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 153,
+                "h": 42,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 153,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 153,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "dxcl.png": {
+            "frame": {
+                "x": 0,
+                "y": 44,
+                "w": 554,
+                "h": 261,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 554,
+                "h": 261
+            },
+            "sourceSize": {
+                "w": 554,
+                "h": 261
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "sure.png": {
+            "frame": {
+                "x": 0,
+                "y": 307,
+                "w": 248,
+                "h": 65,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 248,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 248,
+                "h": 65
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "tips.png",
+        "prefix": "tips\/"
+    }
+}

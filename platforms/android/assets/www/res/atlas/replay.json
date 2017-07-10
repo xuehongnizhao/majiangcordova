@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "again.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 90
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "ahead.png": {
+            "frame": {
+                "x": 97,
+                "y": 0,
+                "w": 95,
+                "h": 90,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 90
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "back.png": {
+            "frame": {
+                "x": 0,
+                "y": 92,
+                "w": 95,
+                "h": 90,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 90
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "go.png": {
+            "frame": {
+                "x": 0,
+                "y": 184,
+                "w": 95,
+                "h": 90,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 90
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "pause.png": {
+            "frame": {
+                "x": 97,
+                "y": 92,
+                "w": 95,
+                "h": 90,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 90
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "replay.png",
+        "prefix": "replay\/"
+    }
+}

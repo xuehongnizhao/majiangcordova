@@ -1,0 +1,75 @@
+{
+    "frames": {
+        "x.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 69,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 69
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "you.png": {
+            "frame": {
+                "x": 0,
+                "y": 71,
+                "w": 70,
+                "h": 132,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 132
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "zuo.png": {
+            "frame": {
+                "x": 72,
+                "y": 0,
+                "w": 70,
+                "h": 132,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 132
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "guide.png",
+        "prefix": "guide\/"
+    }
+}

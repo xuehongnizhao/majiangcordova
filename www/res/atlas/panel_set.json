@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "jiesan.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 99
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "off.png": {
+            "frame": {
+                "x": 0,
+                "y": 101,
+                "w": 134,
+                "h": 58,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 58
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 58
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "on.png": {
+            "frame": {
+                "x": 136,
+                "y": 101,
+                "w": 134,
+                "h": 58,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 58
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 58
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "tcdl.png": {
+            "frame": {
+                "x": 0,
+                "y": 161,
+                "w": 253,
+                "h": 99,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 99
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "tcyx.png": {
+            "frame": {
+                "x": 0,
+                "y": 262,
+                "w": 253,
+                "h": 99,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 99
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "panel_set.png",
+        "prefix": "panel_set\/"
+    }
+}

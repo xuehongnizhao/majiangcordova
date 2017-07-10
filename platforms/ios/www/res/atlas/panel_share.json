@@ -1,0 +1,138 @@
+{
+    "frames": {
+        "haoyouqun.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 99
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "lijilingqu.png": {
+            "frame": {
+                "x": 0,
+                "y": 101,
+                "w": 253,
+                "h": 99,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 99
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 99
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "receive1.png": {
+            "frame": {
+                "x": 0,
+                "y": 202,
+                "w": 198,
+                "h": 79,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 79
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 79
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "receive2.png": {
+            "frame": {
+                "x": 200,
+                "y": 202,
+                "w": 198,
+                "h": 79,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 79
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 79
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "share_code1.png": {
+            "frame": {
+                "x": 0,
+                "y": 283,
+                "w": 198,
+                "h": 79,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 79
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 79
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "share_code2.png": {
+            "frame": {
+                "x": 200,
+                "y": 283,
+                "w": 198,
+                "h": 79,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 79
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 79
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "panel_share.png",
+        "prefix": "panel_share\/"
+    }
+}

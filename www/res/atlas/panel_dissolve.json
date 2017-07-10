@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "queren.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 100,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 100
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 100
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "quxiao.png": {
+            "frame": {
+                "x": 0,
+                "y": 102,
+                "w": 200,
+                "h": 100,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 100
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 100
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "panel_dissolve.png",
+        "prefix": "panel_dissolve\/"
+    }
+}

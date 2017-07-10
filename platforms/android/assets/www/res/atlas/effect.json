@@ -1,0 +1,180 @@
+{
+    "frames": {
+        "IMG00000.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00001.png": {
+            "frame": {
+                "x": 0,
+                "y": 406,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00002.png": {
+            "frame": {
+                "x": 0,
+                "y": 812,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00003.png": {
+            "frame": {
+                "x": 362,
+                "y": 0,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00004.png": {
+            "frame": {
+                "x": 724,
+                "y": 0,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00005.png": {
+            "frame": {
+                "x": 362,
+                "y": 406,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00006.png": {
+            "frame": {
+                "x": 362,
+                "y": 812,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "IMG00007.png": {
+            "frame": {
+                "x": 724,
+                "y": 406,
+                "w": 360,
+                "h": 404,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 404
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "effect.png",
+        "prefix": "effect\/"
+    }
+}

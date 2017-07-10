@@ -1,0 +1,180 @@
+{
+    "frames": {
+        "createRoom.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 77,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 77
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "play_baida1.png": {
+            "frame": {
+                "x": 202,
+                "y": 0,
+                "w": 208,
+                "h": 89,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 89
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "play_baida2.png": {
+            "frame": {
+                "x": 0,
+                "y": 91,
+                "w": 208,
+                "h": 89,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 89
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "play_qiaoma1.png": {
+            "frame": {
+                "x": 210,
+                "y": 91,
+                "w": 208,
+                "h": 89,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 89
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "play_qiaoma2.png": {
+            "frame": {
+                "x": 0,
+                "y": 182,
+                "w": 208,
+                "h": 89,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 89
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "q1.png": {
+            "frame": {
+                "x": 210,
+                "y": 182,
+                "w": 46,
+                "h": 46,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "q2.png": {
+            "frame": {
+                "x": 258,
+                "y": 182,
+                "w": 46,
+                "h": 46,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "q3.png": {
+            "frame": {
+                "x": 306,
+                "y": 182,
+                "w": 46,
+                "h": 46,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "panel_createRoom.png",
+        "prefix": "panel_createRoom\/"
+    }
+}

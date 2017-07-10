@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.base-pro" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Workshop</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <engine name="android" spec="~6.2.3" />
+    <plugin name="com.darktalker.cordova.screenshot" spec="file:../../Downloads/basepro 2/plugins/com.darktalker.cordova.screenshot" />
+    <plugin name="cordova-plugin-battery-status" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-battery-status" />
+    <plugin name="cordova-plugin-compat" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-compat" />
+    <plugin name="cordova-plugin-crosswalk-webview" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-crosswalk-webview">
+        <variable name="XWALK_VERSION" value="23+" />
+        <variable name="XWALK_LITEVERSION" value="xwalk_core_library_canary:17+" />
+        <variable name="XWALK_COMMANDLINE" value="--disable-pull-to-refresh-effect" />
+        <variable name="XWALK_MODE" value="embedded" />
+        <variable name="XWALK_MULTIPLEAPK" value="true" />
+    </plugin>
+    <plugin name="cordova-plugin-file" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-file" />
+    <plugin name="cordova-plugin-file-transfer" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-insomnia" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-insomnia" />
+    <plugin name="cordova-plugin-media" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-media">
+        <variable name="MICROPHONE_USAGE_DESCRIPTION" value=" " />
+    </plugin>
+    <plugin name="cordova-plugin-network-information" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-screen-orientation" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-screen-orientation" />
+    <plugin name="cordova-plugin-splashscreen" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-statusbar" spec="file:../../Downloads/basepro 2/plugins/cordova-plugin-statusbar" />
+    <plugin name="cordova-plugin-wechat" spec="file:../../Downloads/basepro/plugins/cordova-plugin-wechat">
+        <variable name="WECHATAPPID" value="wxfba3290fdc9cc825" />
+    </plugin>
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="es6-promise-plugin" spec="file:../../Downloads/basepro 2/plugins/es6-promise-plugin" />
+    <plugin name="ionic-plugin-keyboard" spec="file:../../Downloads/basepro 2/plugins/ionic-plugin-keyboard" />
+</widget>

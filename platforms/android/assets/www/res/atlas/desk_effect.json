@@ -1,0 +1,75 @@
+{
+    "frames": {
+        "buhua.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 308,
+                "h": 159,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 308,
+                "h": 159
+            },
+            "sourceSize": {
+                "w": 308,
+                "h": 159
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "feicangying.png": {
+            "frame": {
+                "x": 310,
+                "y": 0,
+                "w": 231,
+                "h": 81,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 231,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 231,
+                "h": 81
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "feicangyingtexiao.png": {
+            "frame": {
+                "x": 0,
+                "y": 161,
+                "w": 431,
+                "h": 428,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 431,
+                "h": 428
+            },
+            "sourceSize": {
+                "w": 431,
+                "h": 428
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "desk_effect.png",
+        "prefix": "desk_effect\/"
+    }
+}

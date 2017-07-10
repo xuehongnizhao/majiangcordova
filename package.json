@@ -1,0 +1,58 @@
+{
+    "name": "com.yourname.workshop",
+    "version": "1.0.0",
+    "displayName": "Workshop",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "com.darktalker.cordova.screenshot": {},
+            "cordova-plugin-battery-status": {},
+            "cordova-plugin-splashscreen": {},
+            "cordova-plugin-compat": {},
+            "cordova-plugin-crosswalk-webview": {
+                "XWALK_VERSION": "23+",
+                "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+                "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+                "XWALK_MODE": "embedded",
+                "XWALK_MULTIPLEAPK": "true"
+            },
+            "cordova-plugin-file": {},
+            "cordova-plugin-file-transfer": {},
+            "cordova-plugin-media": {
+                "MICROPHONE_USAGE_DESCRIPTION": " "
+            },
+            "cordova-plugin-network-information": {},
+            "cordova-plugin-screen-orientation": {},
+            "cordova-plugin-statusbar": {},
+            "es6-promise-plugin": {},
+            "ionic-plugin-keyboard": {},
+            "cordova-plugin-insomnia": {},
+            "cordova-plugin-wechat": {
+                "WECHATAPPID": "wxfba3290fdc9cc825"
+            }
+        }
+    },
+    "dependencies": {
+        "com.darktalker.cordova.screenshot": "file:../../Downloads/basepro 2/plugins/com.darktalker.cordova.screenshot",
+        "cordova-android": "~6.2.3",
+        "cordova-plugin-battery-status": "file:../../Downloads/basepro 2/plugins/cordova-plugin-battery-status",
+        "cordova-plugin-compat": "file:../../Downloads/basepro 2/plugins/cordova-plugin-compat",
+        "cordova-plugin-crosswalk-webview": "file:../../Downloads/basepro 2/plugins/cordova-plugin-crosswalk-webview",
+        "cordova-plugin-file": "file:../../Downloads/basepro 2/plugins/cordova-plugin-file",
+        "cordova-plugin-file-transfer": "file:../../Downloads/basepro 2/plugins/cordova-plugin-file-transfer",
+        "cordova-plugin-insomnia": "file:../../Downloads/basepro 2/plugins/cordova-plugin-insomnia",
+        "cordova-plugin-media": "file:../../Downloads/basepro 2/plugins/cordova-plugin-media",
+        "cordova-plugin-network-information": "file:../../Downloads/basepro 2/plugins/cordova-plugin-network-information",
+        "cordova-plugin-rongcloud-im": "git+https://github.com/rongcloud/cordova-plugin-rongcloud-im.git",
+        "cordova-plugin-screen-orientation": "file:../../Downloads/basepro 2/plugins/cordova-plugin-screen-orientation",
+        "cordova-plugin-splashscreen": "file:../../Downloads/basepro 2/plugins/cordova-plugin-splashscreen",
+        "cordova-plugin-statusbar": "file:../../Downloads/basepro 2/plugins/cordova-plugin-statusbar",
+        "cordova-plugin-wechat": "file:../../Downloads/basepro/plugins/cordova-plugin-wechat",
+        "cordova-plugin-whitelist": "1",
+        "es6-promise-plugin": "file:../../Downloads/basepro 2/plugins/es6-promise-plugin",
+        "ionic-plugin-keyboard": "file:../../Downloads/basepro 2/plugins/ionic-plugin-keyboard"
+    }
+}

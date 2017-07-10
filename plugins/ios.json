@@ -1,0 +1,62 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "com.darktalker.cordova.screenshot": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-media": {
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-insomnia": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "cordova-plugin-wechat": {
+            "WECHATAPPID": "wxfba3290fdc9cc825",
+            "PACKAGE_NAME": "com.example.base-pro"
+        }
+    },
+    "dependent_plugins": {}
+}

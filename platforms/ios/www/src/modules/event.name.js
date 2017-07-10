@@ -1,0 +1,60 @@
+/* 
+* @Author: 轻飘时刻
+* @Date:   2017-04-02 17:14:44
+* @Last Modified by:   轻飘时刻
+* @Last Modified time: 2017-05-22 10:26:31
+*/
+var __event = __event || {};
+
+__event.IVO = "更新自己的信息"
+__event.UPDATE_MALL_PROP = "更新商城信息"
+__event.UPDATE_BAG_PROP = "更新背包信息"
+__event.UPDATE_LV_EXP = "更新等级经验"
+__event.UPDATE_RECEIVE_ROOM_CARD_RECORD = "更新领取房卡记录"
+__event.UPDATE_VOLUME = "更改音量"
+__event.SELECT_MALL_ITEM = "选中商城item"
+__event.ADD_REPLAY_WAIT = "添加重放等待"
+
+__event.UPDATE_RECORD_1_LIST = "更新1级记录面板列表"
+__event.UPDATE_RECORD_2_LIST = "更新2级记录面板列表"
+
+__event.UPDATE_ROOM_CARD = "更新房卡"
+__event.ADD_DESK_HEAD_INFO = "添加桌面头像信息"
+__event.ADD_DESK_ACT_EFFECT = "添加桌面动作特效"
+__event.DESK_ADD_A_WORD = "桌面添加一个语言"
+__event.DESK_ADD_ARROW = "桌面添加出牌箭头"
+__event.DESK_REMOVE_ARROW = "移除箭头"
+
+__event.DESK_UP_PLAYER_READY_OUT_CARD = "桌面上玩家准备出牌"
+__event.DESK_DOWN_PLAYER_READY_OUT_CARD = "桌面下玩家准备出牌"
+__event.DESK_LEFT_PLAYER_READY_OUT_CARD = "桌面左玩家准备出牌"
+__event.DESK_RIGHT_PLAYER_READY_OUT_CARD = "桌面右玩家准备出牌"
+__event.DESK_ADD_CARD_GROUP = "桌面添加出牌选牌牌组"
+__event.DESK_REMOVE_CARD_GROUP = "桌面移除出牌选牌牌组"
+__event.DESK_ADD_ACT = "桌面添加动作"
+__event.DESK_REMOVE_ACT = "桌面移除动作"
+__event.UPDATE_ROOM_ID = "更新房间ID 在准备界面显示的房间ID"
+__event.UPDATE_READY_STATE = "更新准备界面玩家准备状态"
+__event.GOIN_PLAYER = "进入玩家"
+__event.GAME_START = "游戏局开始 开始玩 开始打牌"
+__event.UPDATE_PLAYER_CARD = "更新玩家牌"
+__event.UPDATE_OUT_CARD = "更新玩家出牌"
+__event.PLAYER_OUT_CARD = "玩家刚出的牌"
+__event.PT_I_OUT_CARD = "提示我出牌 自己可以出的牌"
+__event.I_BOUNCE_CARD = "我弹起牌"
+__event.ACT_PASS = "不要"
+__event.ADD_BAIDA = "添加百搭"
+__event.NEXT_MATCH_CLEAR_DESK = "下一场比赛准备，清理桌面"
+__event.OTHER_PLAYER_LEAVE_ROOM = "别的玩家离开房间"
+__event.DISSOLVE_ROOM = "解散房间"
+__event.DISSOLVE_ROOM_ADD_RESULT = "解散房间添加投票结果"
+__event.REMOVE_DISSOLVE_ROOM = "移除解散房间"
+__event.ADD_HUPAI = "添加胡牌显示"
+__event.ADD_CANGYING_EFFECT = "添加苍蝇牌特效"
+__event.UPDATE_BIG_RESULT = "更新大结算"
+__event.UPDATE_SURPLUS_CARD_NUM = "更新剩余牌数"
+__event.UPDATE_DIRECTION_LIGHT = "更新转盘亮标志的位置"
+__event.ADD_HU_EFFECT = "添加胡牌特效"
+__event.UPDATE_HEAD_BUHUA_NUM = "更新头像处补花数量"
+__event.UPDATE_PLAYER_SCORE = "更新玩家分数"
+__event.UPDATE_PLAYER_OFFLINE = "更新玩家离线状态"

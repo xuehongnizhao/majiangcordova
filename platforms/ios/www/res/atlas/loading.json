@@ -1,0 +1,96 @@
+{
+    "frames": {
+        "load4a.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "load4b.png": {
+            "frame": {
+                "x": 184,
+                "y": 0,
+                "w": 182,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "load4c.png": {
+            "frame": {
+                "x": 0,
+                "y": 126,
+                "w": 182,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "load4d.png": {
+            "frame": {
+                "x": 184,
+                "y": 126,
+                "w": 182,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "loading.png",
+        "prefix": "loading\/"
+    }
+}

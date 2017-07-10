@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "loading.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 196,
+                "h": 196,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 196,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 196,
+                "h": 196
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "replay.png": {
+            "frame": {
+                "x": 0,
+                "y": 198,
+                "w": 110,
+                "h": 50,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 110,
+                "h": 50
+            },
+            "sourceSize": {
+                "w": 110,
+                "h": 50
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "panel_record.png",
+        "prefix": "panel_record\/"
+    }
+}
